@@ -1,0 +1,7 @@
+Config username:
+git config --global user.name “K9-Trang”
+Config email:
+git config --global user.email “minhtrang@daiwalance.com.vn”
+Config branch default:
+git config --global init.defaultBranch main
+
